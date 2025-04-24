@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/tour-app":{"guestpath":"/var/www/tour-app","hostpath":"C:/Users/Admin/Desktop/bonus/frontend/build","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/Admin/Desktop/bonus","disabled":false,"__vagrantfile":true}}}
